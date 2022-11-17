@@ -1,0 +1,284 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "REMIX",
+    "image": "file:///android_asset/image/RM.png"
+  },
+    {
+      "id": 2,
+      "name_category": "FULL BASS",
+      "image": "file:///android_asset/image/LB.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "REMIX",
+    "title": "DJ CARE BEBEK",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ1.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "REMIX",
+    "title": "DJ ABANG BANTING ADEK",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "REMIX",
+    "title": "DJ KAMU NANYA DILAN CEMPE",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "REMIX",
+    "title": "DJ SIPAK NADO NANDO",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "REMIX",
+    "title": "DJ RUNTAH",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "REMIX",
+    "title": "DJ AYANG",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "REMIX",
+    "title": "DJ RUNGKAD",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "REMIX",
+    "title": "DJ SEUJUNG RAMBUT",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "REMIX",
+    "title": "DJ BIWIR BEUREUM",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "REMIX",
+    "title": "DJ INGINKU TERIAK",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "REMIX",
+    "title": "DJ ASMALIBRASI",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "REMIX",
+    "title": "DJ INFONE MASE",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "REMIX",
+    "title": "DJ ENTE KADANG KADANG",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "REMIX",
+    "title": "DJ GEDANG KLUTUK",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "REMIX",
+    "title": "DJ NO COMMEN",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "REMIX",
+    "title": "DJ NAMAKU BENTO",
+    "image": "file:///android_asset/image/RM.png",
+    "link_mp3": "mp3/REBEDJ16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "FULL BASS",
+    "title": "DJ MIDUAN CINTA",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "FULL BASS",
+    "title": "DJ TIBA TIBA AKU MELAYANG",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "FULL BASS",
+    "title": "DJ CLOSE YOUR EYES",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "FULL BASS",
+    "title": "DJ CAMPURAN",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "FULL BASS",
+    "title": "DJ MABUK CINTA",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "FULL BASS",
+    "title": "DJ EL PERDON",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "FULL BASS",
+    "title": "DJ JOKO TINGKIR",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "FULL BASS",
+    "title": "DJ KAKA BAJU HITAM",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "FULL BASS",
+    "title": "DJ OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "FULL BASS",
+    "title": "DJ BREWOK PARGOY",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "FULL BASS",
+    "title": "DJ POK AME AME",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "FULL BASS",
+    "title": "DJ RINDU SEMALAM",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "FULL BASS",
+    "title": "DJ SIKOK BAGI DUO",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "FULL BASS",
+    "title": "DJ TERNYATA ADA X AKIMULAKU",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ30.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 31,
+    "name_category": "FULL BASS",
+    "title": "DJ TIARA",
+    "image": "file:///android_asset/image/LB.png",
+    "link_mp3": "mp3/REBEDJ31.ogg",
+    "lyrics": ""
+  }
+  ]
+}
