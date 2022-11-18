@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "KOPLO",
+    "image": "file:///android_asset/image/DK.png"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/DL.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "KOPLO",
+    "title": "MANGKU PUREL",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE1.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "KOPLO",
+    "title": "GANG DOLLY",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "KOPLO",
+    "title": "RUNTAH",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "KOPLO",
+    "title": "MIDUAN CINTA",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "KOPLO",
+    "title": "AYANG",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "KOPLO",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "KOPLO",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "KOPLO",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "KOPLO",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "KOPLO",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "KOPLO",
+    "title": "GEDANG KLUTUK",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "KOPLO",
+    "title": "KESUCIAN ATI",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "KOPLO",
+    "title": "KOYO JOGJA ISTIMEWA",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "KOPLO",
+    "title": "POK AME AME",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "KOPLO",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/DK.png",
+    "link_mp3": "mp3/MADELPLORE15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "LENGKAP",
+    "title": "ANGEL",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "LENGKAP",
+    "title": "CIDRO 3",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "LENGKAP",
+    "title": "DALAM GELAKU MENANGIS",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "LENGKAP",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "LENGKAP",
+    "title": "INFONE MASE",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "LENGKAP",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "LENGKAP",
+    "title": "KOK ISO YO",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "LENGKAP",
+    "title": "MISTER MNDEM",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "LENGKAP",
+    "title": "1 ATAU 2",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "LENGKAP",
+    "title": "SETIA UNTUK SELAMANYA",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "LENGKAP",
+    "title": "SAYANG AKU KECAPEKAN",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "LENGKAP",
+    "title": "TKW",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "LENGKAP",
+    "title": "TANGISE SARANGAN",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "LENGKAP",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "LENGKAP",
+    "title": "TUGIMAN",
+    "image": "file:///android_asset/image/DL.png",
+    "link_mp3": "mp3/MADELPLORE30.ogg",
+    "lyrics": ""
+  }
+  ]
+}
