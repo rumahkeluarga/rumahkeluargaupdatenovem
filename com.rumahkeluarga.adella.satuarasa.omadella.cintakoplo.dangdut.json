@@ -1,0 +1,284 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "ADELLA A",
+    "image": "file:///android_asset/image/DELA.png"
+  },
+    {
+      "id": 2,
+      "name_category": "ADELLA B",
+      "image": "file:///android_asset/image/DELB.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "ADELLA A",
+    "title": "SATU RASA CINTA",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA1.mp3",
+    "lyrics": "<p>Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang ku tahu hari ini ku mencintai mu<br />Yang ku tahu ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejati mu<br />Yakinkan hatimu akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karena diriku sangat menyayangi mu<br />Ku akan membuktikan cinta di hati mu<br />Satu rasa menggapai bahagia<br />Ku Pinang dirimu sebagai teman hidupku<br />Berjanjilah kasih setia bersama ku.</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p>Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karena diriku sangat menyayangi mu<br />Ku akan membuktikan cinta di hati mu<br />Satu rasa menggapai bahagia<br />Ku Pinang dirimu sebagai teman hidupku<br />Berjanjilah kasih setia bersama ku.</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p>Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karena diriku sangat menyayangi mu<br />Ku akan membuktikan cinta di hati mu<br />Satu rasa menggapai bahagia<br />Ku Pinang dirimu sebagai teman hidupku<br />Berjanjilah kasih setia bersama ku.<br />Berjanjilah kasih setia bersama ku.<br />Berjanjilah kasih setia bersama ku.</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "ADELLA A",
+    "title": "RUNGKAD",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA2.mp3",
+    "lyrics": "<p>Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p>Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p>Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu<br />Stop Mencintaimu<br />Gawe Aku Ngelu<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "ADELLA A",
+    "title": "MANGKU PUREL",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA3.mp3",
+    "lyrics": "<p>Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Kowe wes lali omah<br />Ora Uli Ulian<br />Senengane Dolan Neng Karaokean<br />Ngandengi Penyanyi<br />Ora Cukup Siji<br />Cekelane Botol<br />Polahe Koyo Wong Tolol</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu<br />Luweh penting Mikiro Masa depanmu</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "ADELLA A",
+    "title": "GANG DOLLY",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA4.mp3",
+    "lyrics": "<p>Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo aku<br />Njegur nang lokalisasi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi<br />Ndang bali</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "ADELLA A",
+    "title": "RUNTAH",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA5.mp3",
+    "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "ADELLA A",
+    "title": "KESUCIAN ATI",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA6.mp3",
+    "lyrics": "<p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p>Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati<br />Kesucian ati</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "ADELLA A",
+    "title": "OJO DBANDINGKE",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA7.mp3",
+    "lyrics": "<p>Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Jelas Bedo Yen Dibandingke<br />Ora Ono Sing Tak Pamerke<br />Aku Raiso Yen Kon Gawe Gawe<br />Jujur Sak Onone</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "ADELLA A",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA8.mp3",
+    "lyrics": "<p>Joko Tingkir ngombe dawet<br />Jo dipikir marai mumet<br />Joko tingkir ngombe dapur<br />marai mumet ning sirah ajur<br />marai mumet ning sirah ajur</p><p><br />Ning purwokerto tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep smangat kanggo masa depan<br />Tetep smangat kanggo masa depan</p><p><br />Godong kenikir godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur mangan koro<br />Aku jujur kowe ra percoyo<br />Aku jujur kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir marai mumet<br />Joko tingkir ngombe dapur<br />marai mumet ning sirah ajur<br />marai mumet ning sirah ajur</p><p>&nbsp;</p><p>Ning purwokerto tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep smangat kanggo masa depan<br />Tetep smangat kanggo masa depan</p><p><br />Godong kenikir godong koro<br />oJo dipikir aku arep ngeliyo<br />Mangan jamur mangan koro<br />Aku jujur kowe ra percoyo<br />Aku jujur kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir marai mumet<br />Joko tingkir ngombe dapur<br />marai mumet ning sirah ajur<br />marai mumet ning sirah ajur</p><p><br />Ning purwokerto tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep smangat kanggo masa depan<br />Tetep smangat kanggo masa depan</p><p><br />Godong kenikir godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur mangan koro<br />Aku jujur kowe ra percoyo<br />Aku jujur kowe ra percoyo</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "ADELLA A",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA9.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "ADELLA A",
+    "title": "MIDUAN CINTA",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA10.mp3",
+    "lyrics": "<p>Salira ayeuna ayana di mana<br />Aki leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta</p><p><br />Itu langlayangan nu pegat kapakan<br />Di langit lenglang ngaboleang<br />Asih nu munggaran naha teu kapakan<br />Diri ngalayeung teu aya pamundangan.</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana<br />Naha cintana bet lila<br />Kapakan duka teuing kamana</p><p><br />Salira ayeuna ayana di mana<br />Aki leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta</p><p><br />Itu langlayangan nu pegat kapakan<br />Di langit lenglang ngaboleang<br />Asih nu munggaran naha teu kapakan<br />Diri ngalayeung teu aya pamundangan</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana<br />Naha cintana bet lila<br />Kapakan duka teuing kamana</p><p><br />Salira ayeuna ayana di mana<br />Aki leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta</p><p><br />Itu langlayangan nu pegat kapakan<br />Di langit lenglang ngaboleang<br />Asih nu munggaran naha teu kapakan<br />Diri ngalayeung teu aya pamundangan</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana<br />Naha cintana bet lila<br />Kapakan duka teuing kamana</p><p><br />Salira ayeuna ayana di mana<br />Aki leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta</p><p><br />Salira ayeuna ayana di mana<br />Aki leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "ADELLA A",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA11.mp3",
+    "lyrics": "<p>Wes tak pupuk winihe katresnanku, kanggo awakmu<br />Dungoku tuku lemu urip ayem kanggo senengmu</p><p><br />Aku percoyo winih tresnamu, nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Aku ngenteni, aku ngertenimu huooo<br />huoo&hellip; opo kurang lehku, ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atim</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "ADELLA A",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA12.mp3",
+    "lyrics": "<p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini</p><p><br />Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga<br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "ADELLA A",
+    "title": "KOK ISO YO",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA13.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "ADELLA A",
+    "title": "EFEK GEDANG KLUTUK",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "ADELLA A",
+    "title": "KOYO JOGJA ISTIMEWA",
+    "image": "file:///android_asset/image/DELA.png",
+    "link_mp3": "mp3/DELSACTA15.mp3",
+    "lyrics": "<p>mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />rasah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong kang lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />ra usah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />ra usah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa<br />ibarat kuthoku jogja kowe cen istimewa</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "ADELLA B",
+    "title": "BIDADARI CINTA",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "ADELLA B",
+    "title": "AYANG",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA17.mp3",
+    "lyrics": "<p>kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Ayang kapan kamu pulang?<br />Pikiranku selalu terbang melayang<br />Tak pernah ada kabar darimu<br />Walau kutahu kamu online melulu</p><p><br />Katamu, ini cuma seminggu<br />Tapi rasanya sperti sewindu<br />Ternyata sulit ku jauh darimu<br />Tanpa genit dan manja - manja denganmu</p><p><br />Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Katamu, ini cuma seminggu<br />Tapi rasanya sperti sewindu<br />Ternyata sulit ku jauh darimu<br />Tanpa genit dan manja - manja denganmu</p><p>Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Yang aku mau<br />cuma kamu<br />Saat ini<br />Yang aku mau<br />cuma kamu<br />Saat ini</p>"
+  },
+  {
+    "id": 18,
+    "name_category": "ADELLA B",
+    "title": "CIDRO 3",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "ADELLA B",
+    "title": "DALAM GELAKU MENANGIS",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA19.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "ADELLA B",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "ADELLA B",
+    "title": "POK AMAI AMAI",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "ADELLA B",
+    "title": "INFONE MASE",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA22.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "ADELLA B",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA23.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "ADELLA B",
+    "title": "LALI JANJINE",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "ADELLA B",
+    "title": "PINGAL",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "ADELLA B",
+    "title": "SAYANG AKU KECAPEKAN",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA26.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "ADELLA B",
+    "title": "TANGISE SARANGAN",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA27.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "ADELLA B",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA28.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "ADELLA B",
+    "title": "TKW",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA29.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "ADELLA B",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA30.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 31,
+    "name_category": "ADELLA B",
+    "title": "TUGIMAN",
+    "image": "file:///android_asset/image/DELB.png",
+    "link_mp3": "mp3/DELSACTA31.mp3",
+    "lyrics": ""
+  }
+  ]
+}
