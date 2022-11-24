@@ -1,0 +1,374 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "GIHON MAREL",
+    "image": "file:///android_asset/image/TA.png"
+  },
+    {
+      "id": 2,
+      "name_category": "JUSTY ALDRIN",
+      "image": "file:///android_asset/image/TB.png"
+    },
+	{
+      "id": 3,
+      "name_category": "TOTON CARIBO",
+      "image": "file:///android_asset/image/TC.png"
+    },
+	{
+      "id": 4,
+      "name_category": "CAMPURAN",
+      "image": "file:///android_asset/image/TD.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "GIHON MAREL",
+    "title": "RINDU MAMA",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/1.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "GIHON MAREL",
+    "title": "TELEFON",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "GIHON MAREL",
+    "title": "YANG PUNYA",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "GIHON MAREL",
+    "title": "JANJI PUTIH",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "GIHON MAREL",
+    "title": "TANPA TANDA TANYA",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "GIHON MAREL",
+    "title": "BAGAIMANA KALAU AKU",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "GIHON MAREL",
+    "title": "GAGAL BERJUANG",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "GIHON MAREL",
+    "title": "JANGAN GANGGU",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "GIHON MAREL",
+    "title": "KEHILANGAN",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "GIHON MAREL",
+    "title": "SIKSA BATIN",
+    "image": "file:///android_asset/image/TA.png",
+    "link_mp3": "mp3/10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "JUSTY ALDRIN",
+    "title": "BALE PULANG",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "JUSTY ALDRIN",
+    "title": "CERITA SINGKAT",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "JUSTY ALDRIN",
+    "title": "DUA HATI JADI SATU",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "JUSTY ALDRIN",
+    "title": "JANG TANYA",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "JUSTY ALDRIN",
+    "title": "KO BUKAN PELANGI",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "JUSTY ALDRIN",
+    "title": "KO SENGAJA",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "JUSTY ALDRIN",
+    "title": "LUKA KENAPA",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "JUSTY ALDRIN",
+    "title": "MALU KENAPA",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "JUSTY ALDRIN",
+    "title": "MASIH SENDIRI",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "JUSTY ALDRIN",
+    "title": "OMBAK BABUNYI",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "JUSTY ALDRIN",
+    "title": "PASTIKAN",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "JUSTY ALDRIN",
+    "title": "PULANG",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "JUSTY ALDRIN",
+    "title": "RUMAH PRA LE",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "JUSTY ALDRIN",
+    "title": "SATU KALIMAT BUAT MANTAN",
+    "image": "file:///android_asset/image/TB.png",
+    "link_mp3": "mp3/24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "JUSTY ALDRIN",
+    "title": "SE DIMANA",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "TOTON CARIBO",
+    "title": "BALE PULANG 2",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "TOTON CARIBO",
+    "title": "BARANI",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "TOTON CARIBO",
+    "title": "DA BABY",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "TOTON CARIBO",
+    "title": "FLY",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "TOTON CARIBO",
+    "title": "KAS JADI",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/30.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 31,
+    "name_category": "TOTON CARIBO",
+    "title": "RINDU",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/31.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 32,
+    "name_category": "TOTON CARIBO",
+    "title": "TEGA",
+    "image": "file:///android_asset/image/TC.png",
+    "link_mp3": "mp3/32.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 33,
+    "name_category": "CAMPURAN",
+    "title": "CINTA BIKIN BODO",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/33.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 34,
+    "name_category": "CAMPURAN",
+    "title": "CINTA SENG PAKAI SPASI",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/34.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 35,
+    "name_category": "CAMPURAN",
+    "title": "CUMA SAYA",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/35.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 36,
+    "name_category": "CAMPURAN",
+    "title": "JAGA ORANG PUNYA JODOH",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/36.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 37,
+    "name_category": "CAMPURAN",
+    "title": "KAKA MAIN SALAH",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/37.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 38,
+    "name_category": "CAMPURAN",
+    "title": "MANTAN",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/38.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 39,
+    "name_category": "CAMPURAN",
+    "title": "MULAI MALAM INI",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/39.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 40,
+    "name_category": "CAMPURAN",
+    "title": "SE YANG PAKSA",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/40.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 41,
+    "name_category": "CAMPURAN",
+    "title": "TUNGGU KAKA DATANG",
+    "image": "file:///android_asset/image/TD.png",
+    "link_mp3": "mp3/41.ogg",
+    "lyrics": ""
+  }
+  ]
+}
