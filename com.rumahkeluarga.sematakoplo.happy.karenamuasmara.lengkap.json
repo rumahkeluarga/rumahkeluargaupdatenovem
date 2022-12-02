@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "HAPPY A",
+    "image": "file:///android_asset/image/HA.png"
+  },
+    {
+      "id": 2,
+      "name_category": "HAPPY B",
+      "image": "file:///android_asset/image/HB.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "HAPPY A",
+    "title": "SEMATA KARENAMU",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/1.mp3",
+    "lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />Ho uh oh tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p>Percayalah pada diriku<br />Ku kan selalu menjagamu<br />Ho oh uh</p><p><br />Malam bantu aku luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Malam bantu aku luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "HAPPY A",
+    "title": "RUNGKAD",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/2.mp3",
+    "lyrics": "<p>Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan <br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p>Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Stop Mencintaimu</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "HAPPY A",
+    "title": "CARE BEBEK",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/3.mp3",
+    "lyrics": "<p>Ngude beli liu munyi<br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we</p><p><br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini<br />Menangis setiap hari</p><p><br />Ngude beli liu munyi<br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we</p><p><br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini<br />Sakit hati</p><p><br />Jujur tiang beli<br />Aku masih sangat mencintaimu<br />Jangan lagi beli<br />Menyakiti hati dan ingkar janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Tapi beli mengingkari janji<br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Ngae sakit hati ini</p><p><br />Ku tak bisa lagi, ku tak mau lagi<br />Dicintai beli, tapi diingkari</p><p><br />Ngude beli liu munyi<br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we</p><p><br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini<br />Sakit hati</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we</p><p><br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini<br />Sakit hati</p><p><br />Jujur tiang beli<br />Aku masih sangat mencintaimu<br />Jangan lagi beli<br />Menyakiti hati dan ingkar janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Tapi beli mengingkari janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Tapi beli mengingkari janji</p><p><br />Ku tak bisa lagi, ku tak mau lagi<br />Dicintai beli, tapi diingkari</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Tapi beli mengingkari janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Ngae sakit hati ini</p><p><br />Ku tak bisa lagi, ku tak mau lagi<br />Dicintai beli, tapi diingkari</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "HAPPY A",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/4.mp3",
+    "lyrics": "<p>Dalane rame atiku sing sepi<br />Angen angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman, sempet sayang, kok malah ngilang</p><p><br />Meh lungo angel bertahan loro<br />Nyobo selalu ono meski koe raono roso<br />Roso sing jebul tak rasakne dewe<br />Kebacut sayang, ngek i harapan, koe milih liyane</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "HAPPY A",
+    "title": "KOK ISO YO",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/5.mp3",
+    "lyrics": "<p>Kok iso yo<br />Kok tegel yo<br />Opo salahku<br />Ning endi luputku</p><p><br />Wong sing ra sepiro<br />Koyo aku iki<br />Masalah asmoro, mung kebagian loro</p><p><br />Ditinggal lungo, alesan ra cetho<br />Mergo ngaboti tresno anyarmu sing liyo<br />Gusti, tulung paringono<br />Ati sing kuat<br />Kanggo ngadepi asmoro ugal-ugalan</p><p><br />Wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "HAPPY A",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/6.mp3",
+    "lyrics": "<p>Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Bukane aku ora peduli<br />Tapi pancen kodemu angel dipahami<br />Ngomongo wae kabeh opo anane<br />Ben podo penake</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu<br />Jelas jelas aku nda mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu jelas jelas aku nda mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu jelas jelas aku nda mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing<br />Ayo kita healing</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "HAPPY A",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/7.mp3",
+    "lyrics": "<p>Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu<br />Sing tak tresnani</p><p><br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu<br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo</p><p><br />Bola bali kowe sing salah<br />Nanging aku sing disalahke e</p><p><br />Mas perlu dingerteni<br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu</p><p><br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu<br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo</p><p><br />Bola bali kowe sing salah<br />Nanging aku sing disalahne ee</p><p><br />Wis rapopo aku sing disalahno<br />Tapi elingo cen aku sing lilo<br />Dadi payung naliko udane teko</p><p><br />Mas perlu dingerteni<br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu</p><p><br />Senajan kowe mung nyepelekke<br />Nanging ati iki tetep tak kuatke<br />Sumpah ati iki</p><p><br />Setiyoku mung kanggo kowe<br />Selawase bebarengan karo kowe<br />Selawase ora bakal tak liyakke<br />Selawase tetep teteg atine</p><p><br />Tetep teteg atine</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "HAPPY A",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/8.mp3",
+    "lyrics": "<p>Wes tak cobo ngempet lara<br />Wes tak cobo njogo tresno<br />Loro sing tok jalari ora tak rasake<br />Senadyan aku ngerti koe karo liyane</p><p><br />Cobo koe ono ning posisiku<br />Opo koe iso kuat atimu<br />Ngrasakke tok larani ning saben dinoku<br />Koe ra ngroso kok malah suloyo</p><p><br />Kulo pun angkat tangan atinipun ajur-ajuran<br />Kulo tak milih pamit ati kulo pun roso sakit</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati</p><p><br />Kulo pun angkat tangan atinipun ajur-ajuran<br />Kulo tak milih pamit ati kulo pun roso sakit</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati<br />Tak cobo goblok tetep mencintai sepenuh hati sepenuh hati</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "HAPPY A",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/9.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "HAPPY A",
+    "title": "CINTA TERLARANG",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/10.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "HAPPY A",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/11.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "HAPPY A",
+    "title": "LEMAH TELES",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/12.mp3",
+    "lyrics": "<p>Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br />Tak tabrak kowe loro iki salahe sopo<br />Yen kowe wes ra tresno ngomong ojo trus lungo<br />Awas nemoni apes lemah teles gusti sing bakal mbales</p><p><br />Jujur ati iki loro<br />Durung biso nompo kenyataan<br />Tanduran sing wes tak sirami<br />Malih dadi awu ireng diobong karo kahanan</p><p><br />Biyen janji bareng-bareng<br />Ngrasakne susah lan seneng<br />Saiki kowe medotke angen-angen<br />Tak kuatne ati yen kudu kelangan, hoo-oo</p><p><br />Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br />Tak tabrak kowe loro iki salahe sopo<br />Yen kowe wes ra tresno ngomong ojo trus lungo<br />Awas nemoni apes lemah teles gusti sing bakal mbales</p><p><br />Jujur ati iki loro<br />Durung biso nompo kenyataan<br />Tanduran sing wes tak sirami<br />Malih dadi awu ireng diobong karo kahanan</p><p><br />Biyen janji bareng-bareng<br />Ngrasakne susah lan seneng<br />Saiki kowe medotke angen-angen<br />Tak kuatne ati yen kudu kelangan</p><p><br />Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br />Tak tabrak kowe loro iki salahe sopo<br />Yen kowe wes ra tresno ngomong ojo trus lungo<br />Awas nemoni apes lemah teles gusti sing bakal mbales</p><p><br />Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br />Tak tabrak kowe loro iki salahe sopo<br />Yen kowe wes ra tresno ngomong ojo trus lungo<br />Awas nemoni apes lemah teles gusti sing bakal mbales<br />Lemah teles gusti sing bakal mbales</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "HAPPY A",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/13.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "HAPPY A",
+    "title": "TAK SELAMANYA SELINGKU ITU INDAH",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "HAPPY A",
+    "title": "ADA UNTUKMU",
+    "image": "file:///android_asset/image/HA.png",
+    "link_mp3": "mp3/15.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "HAPPY B",
+    "title": "BALIK KANAN WAE",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/16.mp3",
+    "lyrics": "<p>Kelingan nalikane aku ketemu ro kowe<br />Ati iki langsung iso tresno rasane<br />Saben ketemu sliramu tansah ayem atiku<br />Naliko nyawang esem lan guyumu</p><p><br />Sampai tiba waktu yang ku nanti<br />Tak ungkapke roso ning njero ati iki<br />Nanging nyatane kowe ono sing nduweni</p><p><br />Aku tresno karo kowe<br />Nanging aku iso opo<br />Ngerteni kowe uwes nyanding uwong liyo<br />Aku kudu iso nerimo<br />Snadyan ati loro rasane<br />Mungkin kabeh iki wes dalane</p><p><br />Sepurane aku wes tresno sliramu<br />Snadyan aku iki dudu pilihanmu<br />Mending tak ikhlasno<br />Daripada cidro<br />Mugo kowe bahagia karo wong liyo</p><p><br />Sampai tiba waktu yang ku nanti<br />Tak ungkapke roso ning njero ati iki<br />Nanging nyatane kowe ono sing nduweni</p><p><br />Aku tresno karo kowe<br />Nanging aku iso opo<br />Ngerteni kowe uwes nyanding uwong liyo<br />Aku kudu iso nerimo<br />Snadyan ati loro rasane<br />Mungkin kabeh iki wes dalane</p><p><br />Sepurane aku wes tresno sliramu<br />Snadyan aku iki dudu pilihanmu<br />Mending tak ikhlasno<br />Daripada cidro<br />Mugo kowe bahagia karo wong liyo</p><p><br />Sampai tiba waktu yang ku nanti<br />Tak ungkapke roso ning njero ati iki<br />Nanging nyatane kowe ono sing nduweni</p><p><br />Aku tresno karo kowe<br />Nanging aku iso opo<br />Ngerteni kowe uwes nyanding uwong liyo<br />Aku kudu iso nerimo<br />Snadyan ati loro rasane<br />Mungkin kabeh iki wes dalane</p><p><br />Aku tresno karo kowe<br />Nanging aku iso opo<br />Ngerteni kowe uwes nyanding uwong liyo<br />Aku kudu iso nerimo<br />Snadyan ati loro rasane<br />Mungkin kabeh iki wes dalane</p><p><br />Wes, wes, we, cukup mending balik kanan wae</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "HAPPY B",
+    "title": "CINTA SAMPAI MATI",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "HAPPY B",
+    "title": "MADIUN NGAWI",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "HAPPY B",
+    "title": "OJO NANGIS",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/19.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "HAPPY B",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "HAPPY B",
+    "title": "PINGAL",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "HAPPY B",
+    "title": "SAKIT RINDU",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/22.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "HAPPY B",
+    "title": "SAMPON LILO",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/23.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "HAPPY B",
+    "title": "SATRU",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "HAPPY B",
+    "title": "SLENCO",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "HAPPY B",
+    "title": "TAK IKHLASNO",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/26.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "HAPPY B",
+    "title": "TAK TUNGGU BALIMU",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/27.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "HAPPY B",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/28.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "HAPPY B",
+    "title": "WES TATAS",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/29.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "HAPPY B",
+    "title": "YO WIS",
+    "image": "file:///android_asset/image/HB.png",
+    "link_mp3": "mp3/30.mp3",
+    "lyrics": ""
+  }
+  ]
+}
