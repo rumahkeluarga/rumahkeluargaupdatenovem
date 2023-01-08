@@ -1,0 +1,287 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"QWERT12345",
+      "backup_ads_intertitial":"QWERT12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+			"id": 1,
+			"name_category": "NIKEN SALINDRY",
+			"image": "file:///android_asset/image/NS.png"
+		},
+		{
+			"id": 2,
+			"name_category": "RINA ADITAMA",
+			"image": "file:///android_asset/image/RA.png"
+		},
+		{
+			"id": 3,
+			"name_category": "LALA ATILA",
+			"image": "file:///android_asset/image/LA.png"
+		}
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "NIKEN SALINDRY",
+			"title": "MANGKU PUREL",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO1.mp3",
+			"lyrics": "<p>Kowe wes lali omah<br />Ora Uli Ulian<br />Senengane Dolan Neng Karaokean<br />Ngandengi Penyanyi<br />Ora Cukup Siji<br />Cekelane Botol<br />Polahe Koyo Wong Tolol</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu<br />Ojo Terusan Begitu<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masadepanmu</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu<br />Ojo Terusan Begitu<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masadepanmu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masadepanmu<br />Luweh penting Mikiro Masadepanmu</p>"
+		},
+		{
+			"id": 2,
+			"name_category": "NIKEN SALINDRY",
+			"title": "GANG DOLLY",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO2.mp3",
+			"lyrics": "<p>Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo ati<br />Njegur ning lokalisasi</p><p><br />Getunku kepati-pati<br />Wis rumangsa njalari<br />Kepiye wae tak goleki<br />Ning ra ngerti nyang ngendi</p><p><br />Tak parani ono Koji (Ono Koji)<br />Jarene wis pindah Dolly (Pindah Dolly)<br />Age-age tak tututi (Tak Tututi)<br />Jare wis ning Kalisari</p><p><br />Guyangan, Baben lan Bayanan<br />Kabeh wis tak lacak'i<br />Kok ora di kirimo layang<br />Mapanmu ono ngendi</p><p><br />Getunku kepati-pati<br />Wis rumangsa njalari<br />Kepiye wae tak goleki<br />Ning ra ngerti nyang ngendi</p><p><br />Tak parani ono Koji (Ono Koji)<br />Jarene wis pindah Dolly (Pindah Dolly)<br />Age-age tak tututi (Tak Tututi)<br />Jare wis ning Kalisari</p><p><br />Tak parani ono Koji (Ono Koji)<br />Jarene wis pindah Dolly (Pindah Dolly)<br />Age-age tak tututi (Tak Tututi)<br />Jare wis ning Kalisari</p><p><br />Guyangan, Baben lan Bayanan<br />Kabeh wis tak lacak'i<br />Kok ora di kirimo layang<br />Mapanmu ono ngendi</p>"
+		},
+		{
+			"id": 3,
+			"name_category": "RINA ADITAMA",
+			"title": "KALIH WELASKU",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO3.mp3",
+			"lyrics": "<p>Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni<br />Doyo doyo ngganduli<br />Doyo doyo nangisi<br />Kesandung-sandung aku<br />Maksane atimu<br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p>&nbsp;<br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni<br />Doyo doyo ngganduli<br />Doyo doyo nangisi<br />Kesandung-sandung aku<br />Maksane atimu<br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p><br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni<br />Doyo doyo ngganduli<br />Doyo doyo nangisi<br />Kesandung-sandung aku<br />Maksane atimu<br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p>Anane mung tresno kalih welasku</p>"
+		},
+		{
+			"id": 4,
+			"name_category": "LALA ATILA",
+			"title": "RASAH BALI",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO4.mp3",
+			"lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi</p>"
+		},
+		{
+			"id": 5,
+			"name_category": "NIKEN SALINDRY",
+			"title": "KLEBUS",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO5.mp3",
+			"lyrics": "<p>Dalane rame atiku sepi<br />Angen angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman, sempet sayang, kok malah ngilang</p><p><br />Meh lungo angel bertahan loro<br />Nyobo selalu ono meski koe raono roso<br />Roso sing jebul tak rasakne dewe<br />Kebacut sayang, ngek i harapan, koe milih liyane</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p>Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p>"
+		},
+		{
+			"id": 6,
+			"name_category": "NIKEN SALINDRY",
+			"title": "KONCO TANI",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO6.mp3",
+			"lyrics": "<p>Ee, ibo senenge<br />Konco tani, yen nyawang tandurane<br />Nyambut gawe<br />Awak sayah, seneng atine</p><p><br />Parine, lemu-lemu<br />Polowijo, lan ugo sak wernane<br />Katon subur, kabeh tuwuh<br />Kang sarwo tinandur</p><p><br />Panyuwunku<br />Tinebehno saking sambikolo<br />Sih ing gusti<br />Mugi-mugi lestari widodo</p><p><br />Sayuk rukun, rame-rame<br />Gotong-royong, kang dadi semboyane<br />Konco tani<br />Soko guru, tumerap negarane</p><p><br />Ee, ibo senenge<br />Konco tani, yen nyawang tandurane<br />Nyambut gawe<br />Awak sayah, seneng atine</p><p><br />Parine, lemu-lemu<br />Polowijo, lan ugo sak wernane<br />Katon subur, kabeh tuwuh<br />Kang sarwo tinandur</p><p><br />Panyuwunku<br />Tinebehno saking sambikolo<br />Sih ing gusti<br />Mugi-mugi lestari widodo</p><p><br />Sayuk rukun, rame-rame<br />Gotong-royong, kang dadi semboyane<br />Konco tani<br />Soko guru, tumerap negarane</p>"
+		},
+		{
+			"id": 7,
+			"name_category": "RINA ADITAMA",
+			"title": "KOYO JOGJA ISTIMEWA",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO7.mp3",
+			"lyrics": "<p>mangan tempe rasane<br />koyo mangan lawuh sate<br />senajan sak anane<br />sing penting karo kowe</p><p><br />ngombe kembang tahu rasane<br />koyo ngombe susu<br />rausah mecucu<br />tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane<br />wong kang lagi gandrung<br />tak perjuangke<br />tekan janur melengkung</p><p><br />kowe siji sijine<br />aku bangga karo kowe<br />gelem nompo opo anane<br />tresnoku ra bakal mletre</p><p><br />kowe ojo sumelang<br />tresnoku ra bakal ilang<br />ibarat koyo kuthoku jogja<br />kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawuh sate<br />senajan sak anane, sing penting karo kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />rausah mecucu, tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong kang lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine, aku bangga karo kowe<br />gelem nompo opo anane, tresnoku ra bakal mletre<br />kowe ojo sumelang, tresnoku ra bakal ilang<br />ibarat koyo kuthoku jogja, kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawuh sate<br />senajan sak anane, sing penting karo kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />rausah mecucu, tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong kang lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine, aku bangga karo kowe<br />gelem nompo opo anane, tresnoku ra bakal mletre<br />kowe ojo sumelang, tresnoku ra bakal ilang<br />ibarat koyo kuthoku jogja, kowe cen istimewa</p><p><br />kowe siji sijine, aku bangga karo kowe<br />gelem nompo opo anane, tresnoku ra bakal mletre<br />kowe ojo sumelang, tresnoku ra bakal ilang<br />ibarat koyo kuthoku jogja, kowe cen istimewa<br />ibarat koyo kuthoku jogja, kowe cen istimewa</p>"
+		},
+		{
+			"id": 8,
+			"name_category": "RINA ADITAMA",
+			"title": "MADIUN NGAWI",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO8.mp3",
+			"lyrics": "<p>terminal madiun ngawi kenanganku<br />ora bakalan aku ngelalekke<br />mbiyen aku nduwe pacar, anake bu ratmi<br />bakul pecel ono ning pinggir sugeh</p><p><br />terminal madiun ngawi nggen dolanku<br />ora bakalan aku ngelalekke<br />mbiyen jaman semono kowe janji karo aku<br />nanging nyatane kowe ngingkari janjimu</p><p><br />yen aku kangen, kangen karo sliramu<br />tak sawang-sawang fotomu ning dompetku<br />yen aku kangen, kangen karo sliramu<br />tak elus-elus fotomu ning dompetku</p><p><br />opo kowe ra kroso tak batin saben dino<br />ra bakal ilang fotomu ning dompetku<br />opo kowe ra kroso tak batin saben dino<br />ra bakal ilang jenengmu ning atiku</p><p><br />terminal madiun ngawi kenanganku<br />ora bakalan aku ngelalekke<br />mbiyen aku nduwe pacar, anake pak tukiran<br />bakul pecel ono ning pinggir prapatan</p><p><br />terminal madiun ngawi nggen dolanku<br />ora bakalan aku ngelalekke<br />mbiyen jaman semono kowe janji karo aku<br />nanging nyatane kowe ngingkari janjimu</p><p><br />yen aku kangen, kangen karo sliramu<br />tak sawang-sawang fotomu ning dompetku<br />yen aku kangen, kangen karo sliramu<br />tak elus-elus fotomu ning dompetku</p><p><br />opo kowe ra kroso tak batin saben dino<br />ra bakal ilang fotomu ning dompetku<br />opo kowe ra kroso tak batin saben dino<br />ra bakal ilang jenengmu ning atiku</p><p><br />yen aku kangen, kangen karo sliramu<br />tak sawang-sawang fotomu ning hpku<br />yen aku kangen, kangen karo sliramu<br />tak elus-elus fotomu ning dompetku</p><p><br />opo kowe ra kroso tak batin saben dino<br />ra bakal ilang fotomu ning dompetku<br />opo kowe ra kroso tak batin saben dino<br />ra bakal ilang jenengmu ning atiku</p>"
+		},
+		{
+			"id": 9,
+			"name_category": "LALA ATILA",
+			"title": "NYIDAM SARI",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO9.mp3",
+			"lyrics": "<p>umpomo sliramu sekar melati<br />aku kumbang nyidam sari<br />umpomo sliramu margi wong manis<br />aku kang bakal nglewati</p><p><br />sineksen lintange luku semono<br />janji prasetia ning ati<br />tansah sumantar ing netra rinoso<br />karasa rasaning ndriyo</p><p><br />midero sak jagad raya<br />paringana wukir lan samudro<br />nurhayu lan memanise aku<br />dadi ati selawase</p><p><br />nalika nira ing ndalu atiku<br />lamlaman marang sliramu<br />nganti mati ora bakal lali<br />lha kae lintange mlaku</p><p><br />umpomo sliramu sekar melati, aku kumbang nyidam sari<br />umpomo sliramu margi wong manis, aku kang bakal nglewati<br />sineksen lintange luku semono, janji prasetia ning ati<br />tansah sumantar ing netra rinoso karasa rasaning ndriyo</p><p><br />midero sak jagad raya, paringana wukir lan samudro<br />nurhayu lan memanise aku dadi ati selawase<br />nalika nira ing ndalu atiku, lamlaman marang sliramu<br />nganti mati ora bakal lali, lha kae lintange mlaku</p>"
+		},
+		{
+			"id": 10,
+			"name_category": "LALA ATILA",
+			"title": "YEN ING TAWANG ONO LINTANG",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO10.mp3",
+			"lyrics": "<p>Yen ing tawang ono lintang wong bagus<br />Aku ngenteni tekamu<br />Marang mego ing angkoso nimas<br />Sun takokke pawartamu</p><p><br />Janji-janji aku eling cah ayu<br />Sumedhot rasaning ati<br />Lintang lintange iwi-iwi nimas<br />Tresnaku sundhul wiyadi</p><p><br />Dek semono janjimu disekseni<br />Mego kartiko kairing rasa tresno asih</p><p><br />Yen ing tawang ono lintang cah ayu<br />Rungokno tangise ati<br />Binarung swaraning ratri nimas<br />Ngenteni mbulan ndadari</p><p><br />Yen ing tawang ono lintang wong bagus<br />Aku ngenteni tekamu<br />Marang mego ing angkoso nimas<br />Sun takokke pawartamu</p><p><br />Janji-janji aku eling wong bagus<br />Sumedhot rasaning ati<br />Lintang lintange iwi-iwi nimas<br />Tresnaku sundhul wiyadi</p><p><br />Dek semono janjimu disekseni<br />Mego kartiko kairing rasa tresno asih</p><p><br />Yen ing tawang ono lintang cah ayu<br />Rungokno tangise ati<br />Binarung swaraning ratri nimas<br />Ngenteni mbulan ndadari</p>"
+		},
+		{
+			"id": 11,
+			"name_category": "NIKEN SALINDRY",
+			"title": "ESSEMU",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO11.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "NIKEN SALINDRY",
+			"title": "GETUN",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO12.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "NIKEN SALINDRY",
+			"title": "KARANG KATES",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO13.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "NIKEN SALINDRY",
+			"title": "SOTYA",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO14.mp3",
+			"lyrics": "<p>iki tulising kidungku<br />kanggo siro hapsarining kalbu<br />eseme kang manis madu<br />dasar bagus parasmu kang tanpo layu</p><p><br />kangmas sesotyaning ati<br />yo mung ndiko kang sawiji<br />langit bumi kang hanyekseni<br />nalikane ngucap janji ono lathi</p><p>yo mung siji sesotyaku<br />memanikku mung kangmas wong bagus<br />panyuwunku mugo kangmas<br />ora lali marang janji setiamu</p><p><br />nanging kabeh kuwi muspro<br />eling kalamun pupusing tresno<br />wes tak cubo nglalekke sliramu<br />nanging tak lali lali tan biso lali</p><p><br />iki tulising kidungku<br />kanggo siro hapsarining kalbu<br />eseme kang manis madu<br />dasar bagus parasmu kang tanpo layu</p><p><br />kangmas sesotyaning ati<br />yo mung ndiko kang sawiji<br />langit bumi kang hanyekseni<br />nalikane ngucap janji ono lathi</p><p><br />yo mung siji sesotyaku<br />memanikku mung kangmas wong bagus<br />panyuwunku mugo kangmas<br />ora lali marang janji setiamu</p><p><br />nanging kabeh kuwi muspro<br />eling kalamun pupusing tresno<br />wes tak cubo nglalekke sliramu<br />nanging tak lali lali tan biso lali</p><p><br />yo mung siji sesotyaku<br />memanikku mung kangmas wong bagus<br />panyuwunku mugo kangmas<br />ora lali marang janji setiamu</p><p><br />nanging kabeh kuwi muspro<br />eling kalamun pupusing tresno<br />wes tak cubo nglalekke sliramu<br />nanging tak lali lali tan biso lali<br />nanging tak lali lali tan biso lali</p>"
+		},
+		{
+			"id": 15,
+			"name_category": "NIKEN SALINDRY",
+			"title": "TONDO MOTO",
+			"image": "file:///android_asset/image/NS.png",
+			"link_mp3": "mp3/CASAKENPLO15.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "RINA ADITAMA",
+			"title": "LALI JANJINE",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO16.mp3",
+			"lyrics": "<p>dino minggu sing tak tunggu<br />kowe ngajak ning tawang mangu<br />nganti lingsir srengengene<br />ono kene aku nunggu kowe</p><p><br />tak sms ra balesi<br />yen tak telpun malah kok pateni<br />mangkel, aku mangkel<br />yen kepethuk irungmu mesti tak ciwel<br />ciwel ciwel ciwel ciwel ciwel</p><p><br />lali janjine kandane alesane, mangkelake<br />sopo wonge sing ora gelo<br />kadung dandan kowe ora teko</p><p><br />jan jane kowe no ngendi<br />gelagatmu sajak nyubriani<br />atiku sujono<br />kowe kencan karo wanito liyo</p><p><br />dino minggu sing tak tunggu<br />kowe ngajak ning tawang mangu<br />nganti lingsir srengengene<br />ono kene aku nunggu kowe</p><p><br />tak sms ra balesi<br />yen tak telpun malah kok pateni<br />mangkel, aku mangkel<br />yen kepethuk irungmu mesti tak ciwel<br />ciwel ciwel ciwel ciwel ciwel</p><p><br />lali janjine kandane alesane, mangkelake<br />sopo wonge sing ora gelo<br />kadung dandan kowe ora teko</p><p><br />jan jane kowe no ngendi<br />gelagatmu sajak nyubriani<br />atiku sujono<br />kowe kencan karo wanito liyo</p>"
+		},
+		{
+			"id": 17,
+			"name_category": "RINA ADITAMA",
+			"title": "PODANG KUNING",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO17.mp3",
+			"lyrics": "<p>Isuk awan ning omah wis ora krasan<br />Keluyuran anggoleki sing tak sayang<br />Mubeng-mubeng mider anggonku golehi<br />Ora kroso esuk awan nganti wengi</p><p><br />Eman-eman yen ngerti liyo kang nyawang<br />Kleyang-kleyang tak sawang mencok ning epang<br />Gegancangan tak rindek soko kadoan<br />Sarwo ngoceh deweke ngalih pencokan</p><p><br />Welah kae tak jaluk mbok ojo ngece<br />Podang kuning agawe pikirku koming<br />Seret ireng tak sawang katon manise<br />Ati bungah yen klakon dadi duweke</p><p><br />Ora bakal hatiku pengiwang liyan<br />Yen si Podang handudut hati kepranan<br />Ora mendo hatiku sansoyo ndodro<br />Tak sranani sun pikat pulute bedo</p><p><br />Isuk awan ning omah wis ora krasan<br />Keluyuran anggoleki sing tak sayang<br />Mubeng-mubeng mider anggonku golehi<br />Ora kroso esuk awan nganti wengi</p><p><br />Eman-eman yen ngerti liyo kang nyawang<br />Kleyang-kleyang tak sawang mencok ning epang<br />Gegancangan tak rindek soko kadoan<br />Sarwo ngoceh deweke ngalih pencokan</p><p><br />Welah kae tak jaluk mbok ojo ngece<br />Podang kuning agawe pikirku koming<br />Seret ireng tak sawang katon manise<br />Ati bungah yen klakon dadi duweke</p><p><br />Ora bakal hatiku pengiwang liyan<br />Yen si Podang handudut hati kepranan<br />Ora mendo hatiku sansoyo ndodro<br />Tak sranani sun pikat pulute bedo</p>"
+		},
+		{
+			"id": 18,
+			"name_category": "RINA ADITAMA",
+			"title": "LEWUNG",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO18.mp3",
+			"lyrics": "<p>dadi liwung atiku<br />nalikane sepisan ketemu<br />wong bagus dadi laku<br />nggodho ati rinten siang dalu</p><p><br />kinurban jiwo rogo<br />ngundang roso tumetesing kalbu<br />lir nguyahi segoro<br />datan biso ngluluhke atimu</p><p><br />suwe nggonku ngenteni<br />lewung ing ati gak entuk jampi<br />dadyo ati sawiji<br />nadyan abot tak lakoni</p><p><br />sabdo pandhito ratu<br />mring sliramu dadyo ing sisihku<br />Gusti mugi nglilani<br />tresnaku bakal ginowo mati</p><p><br />dadi liwung atiku nalikane sepisan ketemu<br />wong bagus dadi laku, nggodho ati rinten siang dalu<br />kinurban jiwo rogo, ngundang roso tumetesing kalbu<br />lir nguyahi segoro, datan biso ngluluhke atimu</p><p><br />suwe nggonku ngenteni, lewung ing ati gak entuk jampi<br />dadyo ati sawiji, nadyan abot tak lakoni</p><p><br />sabdo pandhito ratu, mring sliramu dadyo ing sisihku<br />Gusti mugi nglilani, tresnaku bakal ginowo mati</p>"
+		},
+		{
+			"id": 19,
+			"name_category": "LALA ATILA",
+			"title": "GUBUK ASMORO",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO19.mp3",
+			"lyrics": "<p>Yen liwat aku kelingan<br />Gubug kae biyen tak ngo leren<br />Neng cagak kebak tulisan<br />Warno abang tondo isek prawan</p><p><br />Jeneng e gubog asmoro<br />Biyen kae tak ngo andum tresno<br />Tanpo bantal tanpo kloso<br />Bot abot e ketaman asmoro</p><p><br />Gubug kae nyimpen wadi<br />Wiwit biyen biyen tumeko sak iki<br />Gubug kae kebak crito<br />Wayah wengi nganti gagat rino</p><p><br />Catetan sak jroning ati<br />Datan luntur soyo merak ati<br />Aku koe dadi garwo<br />Mergo leren neng gubug asmoro</p><p><br />Yen liwat aku kelingan<br />Gubug kae biyen tak ngo leren<br />Neng cagak kebak tulisan<br />Warno abang tondo isek prawan</p><p><br />Jeneng e gubog asmoro<br />Biyen kae tak ngo andum tresno<br />Tanpo bantal tanpo kloso<br />Bot abot e ketaman asmoro</p><p><br />Gubug kae nyimpen wadi<br />Wiwit biyen biyen tumeko sak iki<br />Gubug kae kebak crito<br />Wayah wengi nganti gagat rino</p><p><br />Catetan sak jroning ati<br />Datan luntur soyo merak ati<br />Aku koe dadi garwo<br />Mergo leren neng gubug asmoro</p>"
+		},
+		{
+			"id": 20,
+			"name_category": "LALA ATILA",
+			"title": "LILO",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO20.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "LALA ATILA",
+			"title": "OJO NGELAMUN",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO21.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "LALA ATILA",
+			"title": "PETIS MANIS",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO22.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "LALA ATILA",
+			"title": "RASAH BALI",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO23.mp3",
+			"lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo&nbsp;&nbsp;</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi</p>"
+		},
+		{
+			"id": 24,
+			"name_category": "LALA ATILA",
+			"title": "TAK ILING ILING",
+			"image": "file:///android_asset/image/LA.png",
+			"link_mp3": "mp3/CASAKENPLO24.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "RINA ADITAMA",
+			"title": "CIDRO 3",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO25.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "RINA ADITAMA",
+			"title": "GHODANING RONDO",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO26.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "RINA ADITAMA",
+			"title": "NYIDAM SARI",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO27.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "RINA ADITAMA",
+			"title": "SATRU 2",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO28.mp3",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "RINA ADITAMA",
+			"title": "SESIDEMAN",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO29.mp3",
+			"lyrics": "<p>uwih becik patenono<br />Timbang perpisahan<br />Mring dyah kang sulistya<br />Tak rewangi samudono<br />Marang kulowargo<br />Garwo lan peputro</p><p><br />Liwat kincanging alismu<br />Kuwowo hanglandang rasaning atiku<br />Nadyan wus lingsir yuswaku<br />Aku isih mampu ngladeni solahmu</p><p><br />Mongko kowe bocah gunung<br />Nadyan bocah gunung<br />Kadugo hanyrimpung<br />Jiwo ragaku kok kurung<br />Kehormatan mangrung<br />Rubuh ngantyo pinjung</p><p><br />Urip ono kutho gede<br />Kowe tak tukokke omah sak isine<br />Kowe obo opo wae<br />Nadyan sesideman<br />Mesti tak wujudke</p><p><br />uwih becik patenono<br />Timbang perpisahan<br />Mring dyah kang sulistya<br />Tak rewangi samudono<br />Marang kulowargo<br />Garwo lan peputro</p><p><br />Liwat kincanging alismu<br />Kuwowo hanglandang rasaning atiku<br />Nadyan wus lingsir yuswaku<br />Aku isih mampu ngladeni solahmu</p><p><br />Mongko kowe bocah gunung<br />Nadyan bocah gunung<br />Kadugo hanyrimpung<br />Jiwo ragaku kok kurung<br />Kehormatan mangrung<br />Rubuh ngantyo pinjung</p><p><br />Urip ono kutho gede<br />Kowe tak tukokke omah sak isine<br />Kowe obo opo wae<br />Nadyan sesideman<br />Mesti tak wujudke</p>"
+		},
+		{
+			"id": 30,
+			"name_category": "RINA ADITAMA",
+			"title": "TETEG ATI",
+			"image": "file:///android_asset/image/RA.png",
+			"link_mp3": "mp3/CASAKENPLO30.mp3",
+			"lyrics": ""
+		}
+	]
+}
