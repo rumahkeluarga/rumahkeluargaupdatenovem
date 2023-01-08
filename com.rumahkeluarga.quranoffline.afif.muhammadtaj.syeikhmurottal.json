@@ -1,0 +1,135 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"QWERT12345",
+      "backup_ads_intertitial":"QWERT12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SURAH QURAN",
+      "image": "file:///android_asset/image/MAJ.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH AL FATIHA",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL1.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH AL IMRON",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL2.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH AL KAFI",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL3.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH AR RAHMAN",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL4.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH AL MULK",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL5.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH GHAFER",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL6.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH IBRAHIM",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL7.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH LUQMAN",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL8.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH MARYAM",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL9.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH YASSIN",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL10.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH YUNUS",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL11.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "SURAH QURAN",
+      "title": "SURAH YUSUF",
+      "image": "file:///android_asset/image/MAJ.png",
+      "link_mp3": "mp3/MURMAJTAL12.ogg",
+      "lyrics": ""
+	  }
+  ]
+}
