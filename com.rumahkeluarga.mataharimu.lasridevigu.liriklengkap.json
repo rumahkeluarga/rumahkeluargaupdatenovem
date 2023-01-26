@@ -1,0 +1,206 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SRIDEVI",
+      "image": "file:///android_asset/image/SR.png"
+    },
+    {
+      "id": 2,
+      "name_category": "RARA LIDA",
+      "image": "file:///android_asset/image/RL.png"
+    },
+    {
+      "id": 3,
+      "name_category": "SELFI YAMA",
+      "image": "file:///android_asset/image/SY.png"
+    },
+	{
+      "id": 4,
+      "name_category": "LESTI",
+      "image": "file:///android_asset/image/LE.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SRIDEVI",
+      "title": "MATAHARIMU",
+      "image": "file:///android_asset/image/SR.png",
+      "link_mp3": "mp3/masrmu1.ogg",
+      "lyrics": "<p>Ku selalu tersenyum karena dirimu<br />Selalu bersemangat karena sayangmu<br />Kaulah cintaku jiwaku bahagiaku<br />Kau segalanya didalam hidupku</p><p><br />Ku ingin menjadi mataharimu<br />Bersinar menerangi didalam hidupmu</p><p><br />Tuhan jagakan cintaku<br />Kumohon dalam doaku<br />Berikanlah bahagimu<br />Yang terbaik dari diriMu</p><p><br />Untuk dia yang ku cinta<br />Demi dia yang tersayang<br />Kan kulakukan apa saja<br />Rela Ku korban jiwa raga</p><p><br />Dia cinta sesungguhnya<br />Tanpanya ku tak berdaya</p><p><br />Apapun yang terjadi<br />Kau selalu dihati<br />Engkau cinta sejati<br />Tak akan terganti</p><p><br />Berikanlah bahagiaMu<br />Yang terbaik dari diriMu</p><p><br />Untuk dia yang ku cinta<br />Demi dia yang tersayang<br />Kan kulakukan apa saja<br />Rela Ku korban jiwa raga</p><p><br />Dia cinta sesungguhnya<br />Tanpanya ku tak berdaya</p><p><br />Ku selalu tersenyum karena dirimu<br />Selalu bersemangat karena sayangmu<br />Kaulah cintaku jiwaku bahagiaku<br />Kau segalanya didalam hidupku</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "SRIDEVI",
+      "title": "BUNGA BUNGA CINTA",
+      "image": "file:///android_asset/image/SR.png",
+      "link_mp3": "mp3/masrmu2.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SRIDEVI",
+      "title": "KEJORA",
+      "image": "file:///android_asset/image/SR.png",
+      "link_mp3": "mp3/masrmu3.ogg",
+      "lyrics": "<p>Kejora pancarkanlah sinarmu<br />Temani keheningan malamku<br />Padamu kejora kutitipkan rindu<br />Untuknya yang kini jauh di mata</p><p><br />Kuberkhayal angankan dirimu<br />Seakan hadir di sini<br />Temaniku memelukmu<br />Indah dalam belai kasih sayang</p><p><br />Tak terganti rasa cinta ini<br />Meski kini kau tak sendiri<br />Sisa cinta kan jadi cerita<br />Tersimpan selamanya bersama kejora</p><p><br />Kejora sampaikan rindu ini</p><p><br />Kuberkhayal angankan dirimu<br />Seakan hadir di sini<br />Temaniku memelukmu<br />Indah dalam belai kasih sayang</p><p><br />Tak terganti rasa cinta ini<br />Meski kini kau tak sendiri<br />Sisa cinta kan jadi cerita<br />Tersimpan selamanya bersama kejora</p><p><br />bersama kejora</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "SRIDEVI",
+      "title": "MATI AKU",
+      "image": "file:///android_asset/image/SR.png",
+      "link_mp3": "mp3/masrmu4.ogg",
+      "lyrics": "<p>Mati aku ayahku tahu<br />Aku sedang berjalan dengan pacarku<br />Mati aku ayahku tahu<br />Aku sedang berkencan dengan pacarku</p><p><br />Karena kata Ayah dia tidak bekerja<br />Sehingga ku tak boleh berpacaran dengannya</p><p><br />Mati aku ayahku tahu<br />Aku sedang berjalan dengan pacarku<br />Mati aku ayahku tahu<br />Aku sedang berkencan dengan pacarku</p><p><br />Bagaimana caranya agar tak kena marah<br />Aku takut pulang ke rumah<br />Aku takut dipukul Ayah<br />Akhirnya aku tidur di bawah jendela</p><p><br />Mati aku ayahku tahu<br />Aku sedang berjalan dengan pacarku<br />Mati aku ayahku tahu<br />Aku sedang berkencan dengan pacarku</p><p><br />Karena kata Ayah dia tidak bekerja<br />Sehingga ku tak boleh berpacaran dengannya</p><p><br />Mati aku ayahku tahu<br />Aku sedang berjalan dengan pacarku<br />Mati aku ayahku tahu<br />Aku sedang berkencan dengan pacarku</p><p><br />Bagaimana caranya agar tak kena marah<br />Aku takut pulang ke rumah<br />Aku takut dipukul Ayah<br />Akhirnya aku tidur di bawah jendela</p><p><br />Mati aku ayahku tahu<br />Aku sedang berjalan dengan pacarku<br />Mati aku ayahku tahu<br />Aku sedang berkencan dengan pacarku</p><p><br />Karena kata Ayah dia tidak bekerja<br />Sehingga ku tak boleh berpacaran dengannya</p><p><br />Mati aku ayahku tahu<br />Aku sedang berjalan dengan pacarku<br />Mati aku ayahku tahu<br />Aku sedang berkencan dengan pacarku<br />Aku sedang berkencan dengan pacarku<br />Mati aku</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "SRIDEVI",
+      "title": "PACAR DUNIA AKHIRAT",
+      "image": "file:///android_asset/image/SR.png",
+      "link_mp3": "mp3/masrmu5.ogg",
+      "lyrics": "<p>Kalau ada cari satu untukku<br />Kalau bisa kabarkan kepadaku</p><p><br />Untuk pacarku dunia akhirat<br />Tidak perlu kaya<br />Asal dia setia<br />Cinta dari muda<br />Sampai tua sama-sama</p><p><br />Kalau ada cari satu untukku<br />Kalau bisa kabarkan segera</p><p><br />Buat apa banyak cinta<br />Buat apa banyak cinta<br />Tapi semua pendusta<br />Manisnya hanya di bibir saja</p><p><br />Yang gagah banyak ulahnya<br />Yang gagah banyak ulahnya<br />Yang tampan banyak tingkahnya<br />Lebih-lebih kalau sudah jaya</p><p><br />Ku tak butuh cinta kaya dunia<br />Yang kucari kasih<br />Dunia akhirat</p><p>Kalau ada cari satu untukku<br />Kalau bisa kabarkan kepadaku</p><p><br />Untuk pacarku dunia akhirat<br />Tidak perlu kaya<br />Asal dia setia<br />Cinta dari muda<br />Sampai tua sama-sama</p><p><br />Kalau ada cari satu untukku<br />Kalau bisa kabarkan segera</p><p><br />Buat apa banyak cinta<br />Buat apa banyak cinta<br />Tapi semua pendusta<br />Manisnya hanya di bibir saja</p><p><br />Yang gagah banyak ulahnya<br />Yang gagah banyak ulahnya<br />Yang tampan banyak tingkahnya<br />Lebih-lebih kalau sudah jaya</p><p><br />Ku tak butuh cinta kaya dunia<br />Yang kucari kasih<br />Dunia akhirat</p><p><br />Yang kucari kasih<br />Dunia akhirat<br />Yang kucari kasih<br />Dunia akhirat<br />Yang kucari kasih<br />Dunia akhirat</p><p><br />Yang kucari kasih<br />Dunia akhirat</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "SRIDEVI",
+      "title": "SURGA DITELAPAK KAKI IBU",
+      "image": "file:///android_asset/image/SR.png",
+      "link_mp3": "mp3/masrmu6.ogg",
+      "lyrics": "<p>Bercucuran air mata bila mengenangkan<br />Betapakah besar budi Ibunda berikan<br />Siang-malam menderita hingga entah bila<br />Sungguh besar pengorbanan Ibunda berikan</p><p><br />Duhai, apakah gerangan budi balasan<br />Bagi insan melahirkan, membesarkan?</p><p><br />Tiada bahgia jika tiada doa puja restu<br />Syurga itu di telapak kaki Ibu</p><p><br />Bercucuran air mata bila mengenangkan<br />Betapakah besar budi Ibunda berikan<br />Siang-malam menderita hingga entah bila<br />Sungguh besar pengorbanan Ibunda berikan</p><p><br />Duhai, apakah gerangan budi balasan<br />Bagi insan melahirkan, membesarkan?</p><p><br />Tiada bahagia jika tiada doa puja restu<br />Syurga itu di telapak kaki Ibu</p><p><br />Syurga itu di telapak kaki Ibu</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "SRIDEVI",
+      "title": "BENANG EMAS",
+      "image": "file:///android_asset/image/SR.png",
+      "link_mp3": "mp3/masrmu7.ogg",
+      "lyrics": "<p>Kadang ku berpikir kan mencari gantimu<br />Sekian lamanya aku hidup menjanda</p><p><br />Betapa tak pernah aku melupakannya<br />Saat perceraian di depan penghulu<br />Tetes air mata mengiring sumpahku<br />Ku tak akan mungkin bersuami lagi<br />Begitupun juga ku minta padamu</p><p><br />Kadang kuberpikir kan mencari gantimu<br />Sekian lamanya aku hidup menjanda</p><p><br />Daeng Lala tak mungkin kulupakan<br />Sumpah kita di pantai Losari</p><p>Daeng Lala pabila bawa karaen<br />Lalu berpindah ke Tanah Jawa</p><p><br />Begitu sumpah kita<br />Lalu engkau dan aku<br />Saling mencari gantinya</p><p><br />Kadang kuberpikir kan mencari gantimu<br />Sekian lamanya aku hidup menjanda</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "LESTI",
+      "title": "BAWA AKU KEPENGHULU",
+      "image": "file:///android_asset/image/LE.png",
+      "link_mp3": "mp3/masrmu8.ogg",
+      "lyrics": "<p>Pucuk dicinta ulam pun tiba kata pepatah<br />Kubutuh cinta kamu pun datang aku bahagia<br />Pernah merasa sakitnya cinta hati kecewa<br />Lalu kau hadir aku terlena tiada berdaya</p><p><br />Bunga yang layu kini mekar kembali<br />Kau siram dengan cinta sepenuh hati<br />Ditinggal nikah kulepas dengan ikhlas<br />Gantinya kamu ikhlas membawa berkah</p><p><br />Aku siap jadi milikmu<br />Siapkah kau menjadi imamku</p><p><br />Aku takut fitnah dan dosa<br />Bila berdua-dua denganmu</p><p><br />Apa lagi yang kau tunggu<br />Jadikan aku halal untukmu<br />Ayah Ibu beri restu<br />Bawa aku ke penghulu</p><p><br />Pernah merasa sakitnya cinta hati kecewa<br />Lalu kau hadir aku terlena tiada berdaya</p><p><br />Bunga yang layu kini mekar kembali<br />Kau siram dengan cinta sepenuh hati<br />Ditinggal nikah kulepas dengan ikhlas<br />Gantinya kamu ikhlas membawa berkah</p><p><br />Aku siap jadi milikmu<br />Siapkah kau menjadi imamku</p><p><br />Aku takut fitnah dan dosa<br />Bila berdua-dua denganmu</p><p><br />Apa lagi yang kau tunggu<br />Jadikan aku halal untukmu<br />Ayah Ibu beri restu<br />Bawa aku ke penghulu</p><p><br />Bawa aku ke penghulu<br />Ho sayang</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "LESTI",
+      "title": "SEKALI SEUMUR HIDUP",
+      "image": "file:///android_asset/image/LE.png",
+      "link_mp3": "mp3/masrmu9.ogg",
+      "lyrics": "<p>Kau hadir bagai dalam mimpi<br />Dan aku tak ingin terjaga lagi<br />Merangkai kisah seorang putri<br />Yang jatuh cinta pada sang pangeran</p><p><br />Andai engkau seorang raja<br />Aku ingin menjadi ratunya<br />Bersama hadapi dunia<br />Di kerajaan cinta kita berdua</p><p><br />Sekali seumur hidup<br />Cukup satu kali jangan berubah<br />Untuk selamanya<br />Seia sekata, cinta</p><p><br />Untuk apa harta dunia<br />Bila tak ada cinta yang menyerta<br />Masyhur dan semua kejayaan<br />Tak cukup membuat kita bahagia</p><p><br />Tulus kasih dan sehaluan<br />Berlabuh kita di dermaga impian<br />Jalani hidup tanpa dusta<br />Penuh cinta dan kasih sayang</p><p><br />Andai engkau seorang raja<br />Aku ingin menjadi ratunya<br />Bersama hadapi dunia<br />Di kerajaan cinta kita berdua</p><p><br />Sekali seumur hidup<br />Cukup satu kali jangan berubah<br />Untuk selamanya<br />Seia sekata, cinta</p><p><br />Untuk apa harta dunia<br />Bila tak ada cinta yang menyerta<br />Masyhur dan semua kejayaan<br />Tak cukup membuat kita bahagia</p><p><br />Tulus kasih dan sehaluan<br />Berlabuh kita di dermaga impian<br />Jalani hidup tanpa dusta<br />Penuh cinta dan kasih sayang</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "LESTI",
+      "title": "TIRANI",
+      "image": "file:///android_asset/image/LE.png",
+      "link_mp3": "mp3/masrmu10.ogg",
+      "lyrics": "<p>Akhirnya aku tak sanggup lagi<br />Untuk tetap bertahan hidup begini<br />Cukuplah cukup sampai di sini<br />Silahkan saja bila kau ingin pergi</p><p><br />Terlalu lama<br />Terlalu banyak<br />Terlalu sering<br />Kau sakiti hati ini<br />Hanya karena ego diri</p><p><br />Kasih<br />Akhirnya<br />Akhirnya<br />Aku tak sanggup mendampingi dirimu</p><p>&nbsp;</p><p>Lelah kusembunyi<br />Di balik senyumku<br />Hanya karena tak ingin ada<br />Pertengkaran di antara kita berdua</p><p><br />Lelah kumenanti<br />Hilangnya tirani<br />Namun hatimu tak bernurani<br />Bak berharap hujan di terik sang mentari</p><p><br />Puaskanlah<br />Puaskanlah<br />Selagi nafas masih ada</p><p><br />Sekarang<br />Silahkan engkau pergi<br />Kejarlah semua mimpi-mimpi indahmu</p><p><br />Terlalu lama<br />Terlalu banyak<br />Terlalu sering<br />Kau sakiti hati ini<br />Hanya karena ego diri</p><p><br />Kasih<br />Akhirnya<br />Akhirnya<br />Aku tak sanggup mendampingi dirimu</p><p>&nbsp;</p><p>Lelah kusembunyi<br />Di balik senyumku<br />Hanya karena tak ingin ada<br />Pertengkaran di antara kita berdua</p><p><br />Lelah kumenanti<br />Hilangnya tirani<br />Namun hatimu tak bernurani<br />Bak berharap hujan di terik sang mentari</p><p><br />Puaskanlah<br />Puaskanlah<br />Selagi nafas masih ada</p><p><br />Oh masih ada</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "RARA LIDA",
+      "title": "DITIKAM ASMARA",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/masrmu11.ogg",
+      "lyrics": "<p>Takkan lagi<br />Aku mencintai<br />Setelah kau menyakiti</p><p><br />Takkan lagi kucintai<br />Setelah kau menyakiti<br />Jangan lagi kau kembali<br />Walaupun kau tak kubenci</p><p><br />Cukup sudah kurasakan<br />Oh, pedihnya ditikam asmara</p><p><br />Cinta yang selalu aku dambakan berakhir derita<br />Engkau yang selalu aku banggakan tiada setia<br />Walau ku merasa membutuhkan cinta<br />Mungkin ku trauma kegagalan demi kegagalan</p><p><br />Jera terluka<br />Jera menderita</p><p><br />Jangan lagi kau kembali<br />Walaupun kau tak kubenci</p><p><br />Cukup sudah kurasakan<br />Oh, pedihnya ditikam asmara</p><p><br />Cinta yang selalu aku dambakan berakhir derita<br />Engkau yang selalu aku banggakan tiada setia<br />Walau ku merasa membutuhkan cinta<br />Mungkin ku trauma kegagalan demi kegagalan</p><p><br />Jera terluka<br />Jera menderita</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "RARA LIDA",
+      "title": "KALA CINTA MENGHAMPIRIKU",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/masrmu12.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "RARA LIDA",
+      "title": "LARUT TANPA KEPASTIAN",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/masrmu13.ogg",
+      "lyrics": "<p>Mengapa diriku<br />Slalu teringat padamu<br />Apa ku terjatuh dalam<br />Pusaran rindu</p><p><br />Kucoba sejenak<br />Pejamkan mata, melupakan<br />Lalu kau hadir di dalam<br />Mimpi mimpiku</p><p><br />Seperti salju jatuh ke bumi<br />Hadirmu menyejukkan hati<br />Semurni embun di pagi hari<br />Kau udara dalam hidupku</p><p><br />Jangan biarkan ku tenggelam<br />Membeku dalam kebimbangan<br />Larut tanpa kepastian</p><p><br />Mengapa diriku<br />Slalu teringat padamu</p><p><br />Kucoba sejenak<br />Pejamkan mata, melupakan<br />Lalu kau hadir di dalam<br />Mimpi mimpiku</p><p><br />Sampai kapan aku bertahan<br />Terhanyut dalam kerinduan<br />Deras dan tak mampu kulawan<br />Arus cintaku kepadamu</p><p><br />Seperti salju jatuh ke bumi<br />Hadirmu menyejukkan hati<br />Semurni embun di pagi hari<br />Kau udara dalam hidupku</p><p><br />Jangan biarkan ku tenggelam<br />Membeku dalam kebimbangan<br />Larut tanpa kepastian</p><p><br />Mengapa diriku<br />Slalu teringat padamu</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "RARA LIDA",
+      "title": "PANGGUNG GEMILANG",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/masrmu14.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "RARA LIDA",
+      "title": "SAMUDRA CINTA",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/masrmu15.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SELFI YAMMA",
+      "title": "ADA DIMANA MANA",
+      "image": "file:///android_asset/image/SY.png",
+      "link_mp3": "mp3/masrmu16.ogg",
+      "lyrics": "<p>Kau menggetarkan hatiku<br />Tiap kali bertemu<br />Senyumanmu tatapan matamu menghujam jantungku</p><p><br />Aku jadinya malu<br />Sering terbayang kamu<br />Ada rindu padamu</p><p><br />Kau membuatku gelisah tak menentu<br />Rindu mengganggu selalu ingat kamu<br />Coba lupakan lakukan hal berbeda<br />Tapi kamu ada di mana mana</p><p>Rasa ini gila</p><p>Apa ini cinta</p><p><br />Mungkin ini yang dinamakan virus cinta<br />Hati dan pikiran pun tak bisa sama<br />Mana vaksinnya mana boosternya<br />Aku tak ingin selalu mikirin dia<br />Cari tau hari ini lagi apa<br />Pikir dia lagi jalan sama siapa<br />Aku tak bisa berlama lama<br />Perasaan ini bikin ku pusing kepala</p><p><br />Aku jadinya malu<br />Sering terbayang kamu<br />Ada rindu padamu</p><p><br />Kau membuatku gelisah tak menentu<br />Rindu mengganggu selalu ingat kamu<br />Coba lupakan lakukan hal berbeda<br />Tapi kamu ada di mana mana</p><p><br />Rasa ini gila</p><p><br />Apa ini cinta</p><p><br />Ku ingin pergi ku coba lari<br />Jauh jauh jauh dari kamu<br />Tapi kamu ada di mana mana<br />Kemana ku pergi kau ada di sana</p><p><br />Kau membuatku gelisah tak menentu<br />Riiiiindu mengganggu selalu ingat kamu<br />Coba lupakan lakukan hal berbeda<br />Tapi kamu ada di mana mana</p><p>Rasa ini gila</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "SELFI YAMMA",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/SY.png",
+      "link_mp3": "mp3/masrmu17.ogg",
+      "lyrics": "<p>Bersyukur kepada Allah<br />Ku telah dipertemukan<br />Kekasih baik hati sepertimu</p><p>Apa pun adanya engkau<br />Kurela dan menerima<br />Segenap jiwa ragaku untukmu</p><p><br />Sampai ajal menjemputku<br />Ku selalu mencintamu<br />Menyayangmu<br />Engkau tulang rusukku</p><p><br />Hingga di syurga-Nya Allah<br />Kuingin bersamamu<br />Dan menjadi bidadari cintamu</p><p><br />Apa pun adanya engkau<br />Kurela dan menerima<br />Segenap jiwa ragaku untukmu<br />Sampai ajal menjemputku<br />Ku selalu mencintamu<br />Menyayangmu<br />Engkau tulang rusukku<br />Hingga di syurga-Nya Allah<br />Kuingin bersamamu<br />Dan menjadi bidadari cintamu</p><p><br />Sampai ajal menjemputku<br />Ku selalu mencintamu<br />Menyayangmu<br />Engkau tulang rusukku<br />Hingga di syurga-Nya Allah<br />Kuingin bersamamu<br />Dan menjadi bidadari cintamu<br />Dan menjadi bidadari cintaku<br />Dan menjadi bidadari cintamu</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "SELFI YAMMA",
+      "title": "KU BERTAHAN",
+      "image": "file:///android_asset/image/SY.png",
+      "link_mp3": "mp3/masrmu18.ogg",
+      "lyrics": "<p>Paramata macinnonge pu rae musompangenga<br />Nakullena kasi<br />Teppadai cinnong na atita lao ri iya</p><p><br />Pappojimu ri aleku<br />Teppadani ri mulana<br />Nakullena kasi<br />Tapasojang atiku<br />Taroki bunga lainge</p><p><br />Degaga gunana warangparangmi bawang<br />Muapamatang lao riya<br />Namu puelo elomu<br />Powered by GliaStudio</p><p><br />Adata daeng riolo<br />Melo mewaka siallampereng<br />Jancita riolo sungepa pa passarangi</p><p><br />Cappuni pakkuragaku turusi maneng elota daeng<br />Mauni tapeddirika tette mopi uperrengi</p><p><br />Saba pappojiku lao ridi<br />Degaga pagangkanna<br />Mauni lettu kega kegaki lao<br />Degaga gunana warangparangmi bawang<br />Muapamatang lao riya<br />Namu puelo elomu</p><p><br />Adata daeng riolo<br />Melo mewaka siallampereng<br />Jancita riolo sungepa pa passarangi</p><p><br />Cappuni pakkuragaku turuti maneng elota daeng<br />Mauni tapeddirika tette mopi uperrengi</p><p><br />Adata daeng riolo<br />Melo mewaka siallampereng<br />Jancita riolo sungepa pa passarangi</p><p><br />Cappuni pakkuragaku turuti maneng elota daeng<br />Mauni tapeddirika tette mopi uperrengi</p><p><br />Cappuni pakkuragaku turuti maneng elota daeng<br />Mauni tapeddirika tette mopi uperrengi.</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "SELFI YAMMA",
+      "title": "SERAYA",
+      "image": "file:///android_asset/image/SY.png",
+      "link_mp3": "mp3/masrmu19.ogg",
+      "lyrics": "<p>Ini bukanlah mimpi bukan fatamorgana<br />Pesonanya tak sekedar hiasan mata<br />Benar benar telah membuat percikan rindu di hati</p><p><br />Seraya menyapa dalam hening malam<br />Dirinaikan cahaya cinta</p><p><br />Dibawa aku terbang melayang layang<br />Dengan sayap sayap kasih sayangnya<br />Tersentuh lembut hatiku dengan cintanya<br />Hadirnya memesona hati yang merindu kasih</p><p><br />Asmara di jiwa yang hampir sirna<br />Kini berbunga kembali<br />Oh maha cinta jagalah rasa ini<br />Agar tak terlena buaian asmara</p><p><br />Seraya menyapa dalam hening malam<br />Dirinaikan cahaya cinta</p><p><br />Dibawa aku terbang melayang layang<br />Dengan sayap sayap kasih sayangnya<br />Tersentuh lembut hatiku dengan cintanya<br />Hadirnya memesona hati yang merindu kasih</p><p><br />Dibawa aku terbang melayang layang<br />Dengan sayap sayap kasih sayangnya<br />Tersentuh lembut hatiku dengan cintanya<br />Hadirnya memesona hati yang merindu kasih</p><p><br />Asmara di jiwa yang hampir sirna<br />Kini berbunga kembali<br />Oh maha cinta jagalah rasa ini<br />Agar tak terlena buaian asmara<br />Buaian pesona<br />Tak terlena cinta</p>"
+	  }
+  ]
+}
