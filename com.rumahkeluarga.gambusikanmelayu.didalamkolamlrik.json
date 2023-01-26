@@ -1,0 +1,228 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS ASIK",
+      "image": "file:///android_asset/image/GA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "GAMBUS RELIGI",
+      "image": "file:///android_asset/image/GR.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS ASIK",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "GAMBUS ASIK",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>kuda yang mana kuda yang mana tuan senangi<br />kuda yang putih kuda yang putih didalam kandang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang</p><p><br />kuda yang mana kuda yang mana tuan senangi<br />kuda yang putih kuda yang putih didalam kandang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang</p><p><br />naik sepeda naik sepeda mati lampunya<br />jalan terus jalan terus lambat sampenya<br />ada janda ada janda mati lakinya<br />mau dilamar mau dilamar banyak anaknya<br />ada janda ada janda mati lakinya<br />mau dilamar mau dilamar banyak anaknya</p><p><br />bagaimana bagaimana menggoreng peda<br />ambil minyaknya ambil minyaknya tuang tuangkan<br />bagaimana bagaimana merayu janda<br />ambil anaknya ambil anaknya timang timangkan<br />bagaimana bagaimana merayu janda<br />ambil anaknya ambil anaknya timang timangkan</p><p><br />kampung krukut kampung krukut dipinggir kali<br />anak cina anak cina dan kawan kawan<br />hati takut hati takut jadi berani<br />lihat janda lihat janda kayak perawan<br />hati takut hati takut jadi berani<br />lihat janda lihat janda kayak perawan</p><p><br />anak cina anak cina membuat peti<br />peti dibuat peti dibuat sehari tiga<br />andai nona andai nona memanggnga roti<br />sayakan makan sayakan makan tanpa mentega<br />andai nona andai nona memanggnga roti<br />sayakan makan sayakan makan tanpa mentega</p><p>&nbsp;</p><p>kucing kurus kucing kurus mandi dipapan<br />papan dibawa papan dibawa dari marunda<br />badan kurus badan kurus bukan tak makan<br />kurus mikirin si janda muda<br />badan kurus badan kurus bukan tak makan<br />kurus mikirin si janda muda</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "GAMBUS ASIK",
+      "title": "KEMBALI PULANG",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>Aku seorang manusia<br />rindu rasa rindu rupa<br />aku tak berkata dusta<br />itulah bisikan jiwa</p><p>cinta yang pertama<br />walaupun hilang<br />kan datang berulang<br />kembali bersama-sama</p><p><br />cinta yang pertama<br />walaupun hilang<br />kan datang berulang<br />kembali bersama-sama</p><p><br />nafas sudah cintaku hilang<br />bagai kunai terbang<br />kini ku kan kembali pulang<br />akan hidup tenang</p><p><br />engkaulah pelita hayatku<br />menerangi kalbu<br />melambai menyita ku pulang<br />sayangku berulang</p><p><br />Aku seorang manusia<br />rindu rasa rindu rupa<br />aku tak berkata dusta<br />itulah bisikan jiwa</p><p><br />cinta yang pertama<br />walaupun hilang<br />kan datang berulang<br />kembali bersama-sama</p><p><br />cinta yang pertama<br />walaupun hilang<br />kan datang berulang<br />kembali bersama-sama</p><p><br />Aku seorang manusia<br />rindu rasa rindu rupa<br />aku tak berkata dusta<br />itulah bisikan jiwa</p><p><br />cinta yang pertama<br />walaupun hilang<br />kan datang berulang<br />kembali bersama-sama</p><p><br />cinta yang pertama<br />walaupun hilang<br />kan datang berulang<br />kembali bersama-sama</p><p><br />kini sambutlah aku datang<br />untuk kembali pulang<br />jangan kau ragu jangan bimbang<br />sejarah berulang<br />sejarah berulang<br />sejarah berulang.</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "GAMBUS ASIK",
+      "title": "KASIH KEDUA IBU",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p>Aku sangat gembira ayah beristri dua<br />yang satu ibu kandung yang satu ibu tiri<br />dua duanya sama hatinya sangat mulya<br />hatinya sangat mulya</p><p><br />apabila aku nakal ibu mencubit pipiku<br />mencubit pipiku</p><p>lalu datang ibu tiri membujuk &amp; merayuku<br />Menghibur hatiku</p><p>bila jalan bersama dengan ibu tiriku<br />aku merasa malu karna sebaya denganku<br />sehingga banyak orang<br />yang menyangka pacarku<br />yang menyangka pacarku</p><p><br />apabila aku nakal ibu mencubit pipiku<br />mencubit pipiku</p><p><br />lalu datang ibu tiri membujuk &amp; merayuku<br />Menghibur hatiku</p><p><br />bila jalan bersama dengan ibu tiriku<br />aku merasa malu karna sebaya denganku<br />sehingga banyak orang<br />yang menyangka pacarku<br />yang menyangka pacarku</p><p><br />apabila aku nakal ibu mencubit pipiku<br />mencubit pipiku</p><p>lalu datang ibu tiri membujuk &amp; merayuku<br />Menghibur hatiku</p><p>bila jalan bersama dengan ibu tiriku<br />aku merasa malu karna sebaya denganku<br />sehingga banyak orang<br />yang menyangka pacarku<br />yang menyangka pacarku</p><p><br />Aku sangat gembira ayah beristri dua<br />yang satu ibu kandung yang satu ibu tiri<br />dua duanya sama hatinya sangat mulya<br />hatinya sangat mulya</p><p><br />apabila aku nakal ibu mencubit pipiku<br />mencubit pipiku</p><p>lalu datang ibu tiri membujuk &amp; merayuku<br />Menghibur hatiku</p><p>bila jalan bersama dengan ibu tiriku<br />aku merasa malu karna sebaya denganku<br />sehingga banyak orang<br />yang menyangka pacarku<br />yang menyangka pacarku</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "GAMBUS ASIK",
+      "title": "NASIBNYA KEMBANG",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri</p><p><br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri</p><p><br />Sayang melati bertangkai rendah<br />mudah disunting orang yang lalu<br />Sayang melati bertangkai rendah<br />mudah disunting orang yang lalu<br />tidak seperti si mawar merah<br />duri ditangkai menjaga selalu<br />tidak seperti si mawar merah<br />duri ditangkai menjaga selalu</p><p><br />Jika melati sedang mengembang<br />Harum baumu dikala senja<br />Jika melati sedang mengembang<br />Harum baumu dikala senja<br />Siapa melihat menaruh sayang<br />Pagi dan petang selalu di puja<br />Siapa melihat menaruh sayang<br />Pagi dan petang selalu di puja</p><p><br />Tetapi kalau harummu telah hilang<br />atau carimu telah tak ada<br />Tetapi kalau harummu telah hilang<br />atau carimu telah tak ada<br />ditengah jalan engkau terbuang<br />tiada lagi dapat berharga<br />ditengah jalan engkau terbuang<br />tiada lagi dapat berharga</p><p><br />wahai melati bunga nan malang<br />nasibmu usah lagi dikenang<br />wahai melati bunga nan malang<br />nasibmu usah lagi dikenang<br />memang begitu nasibnya kembang<br />sedang dipakai layu dibuang<br />memang begitu nasibnya kembang<br />sedang dipakai layu dibuang</p><p><br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri</p><p>Cantik rupanya di pandang mata<br />Putih kuning berseri seri.</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "GAMBUS ASIK",
+      "title": "BASHIL HUBBAK",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "GAMBUS ASIK",
+      "title": "KHAYALANKU",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "<p>Jikalau sama menaruh hati<br />Di ekor mata oh mata kita berjanji<br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p>Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />Dipanasi indra sakti<br />Burung kutilang burung kutilang kutilang pohon kranji<br />Jikalau sama menaruh hati<br />Di ekor mata oh mata kita berjanji<br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />kasihan burung disangkar lepaskan ia<br />lepaskan ia lepaskan biarah terbang<br />jikalau cinta telah berasa<br />siang dan malam selalu terbayang bayang<br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p>Jikalau panas nan terik<br />Bungapun layu bungapun layu oh layu<br />Di tengah kamar<br />Aku bermimpi merasa baik<br />Mimpi adinda adinda tidur di tangan</p><p><br />Semenjak aku memandang, terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />Jikalau panas nan terik<br />hujanpun turun ih turun<br />Di bukit gersang<br />Aku bermimpi merasa baik<br />Mimpi adinda adinda tidur di tangan</p><p><br />Semenjak aku memandang, terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin<br />Tidaklah tahu oh angin ditiup angin<br />Tidaklah tahu oh angin ditiup angin</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "GAMBUS ASIK",
+      "title": "PANTUN CINTA",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "GAMBUS ASIK",
+      "title": "PANTUN JANJI",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "GAMBUS ASIK",
+      "title": "PANTUN PENGANTIN",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "GAMBUS ASIK",
+      "title": "PANTUN",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "GAMBUS ASIK",
+      "title": "RADINAK",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "GAMBUS ASIK",
+      "title": "YADAN YADAN",
+      "image": "file:///android_asset/image/GA.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "GAMBUS RELIGI",
+      "title": "ALLAH ALLAH AGHISNA",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "GAMBUS RELIGI",
+      "title": "ASSLAMUALAIKA",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "GAMBUS RELIGI",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p>mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />jamalak ma fits-nain<br />masyafit mitsluh ain<br />asar fuadi<br />wizad widadi<br />badrid-duja ya zain</p><p><br />abyadh hulwil-khoddin<br />ya wasi&rsquo;al-ainain<br />ahlab-tisamah<br />biabha alamah<br />ya sayyidal-kaunain</p><p><br />imta habibi arok<br />wal-qok wafroh binadak</p><p><br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah<br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />abyadh hulwil-khoddin<br />ya wasi&rsquo;al-ainain<br />ahlab-tisamah<br />biabha alamah<br />ya sayyidal-kaunain</p><p><br />abyadh hulwil-khoddin<br />ya wasi&rsquo;al-ainain<br />ahlab-tisamah<br />biabha alamah<br />ya sayyidal-kaunain</p><p><br />imta habibi arok<br />wal-qok wafroh binadak</p><p><br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah<br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "GAMBUS RELIGI",
+      "title": "MUHAMMAD NABINA",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "GAMBUS RELIGI",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "GAMBUS RELIGI",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "GAMBUS RELIGI",
+      "title": "SHOLAWAT NARIYAH",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "GAMBUS RELIGI",
+      "title": "WAQTU ASHAR",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "GAMBUS RELIGI",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "GAMBUS RELIGI",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
