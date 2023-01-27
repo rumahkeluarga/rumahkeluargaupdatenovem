@@ -1,0 +1,228 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DANGDUT ASIK",
+      "image": "file:///android_asset/image/DA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "DANGDUT KOPLO",
+      "image": "file:///android_asset/image/DK.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DANGDUT ASIK",
+      "title": "LALA WIDY IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "DANGDUT ASIK",
+      "title": "VITA ALVIA IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "DANGDUT ASIK",
+      "title": "DUO AGENG IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "DANGDUT ASIK",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "DANGDUT ASIK",
+      "title": "EGO",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben, masalah ben ora dowo</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "DANGDUT ASIK",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "DANGDUT ASIK",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "<p>Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan <br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p>Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Stop Mencintaimu</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "DANGDUT ASIK",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />Ho uh oh tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p>Percayalah pada diriku<br />Ku kan selalu menjagamu<br />Ho oh uh</p><p><br />Malam bantu aku luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Malam bantu aku luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "DANGDUT ASIK",
+      "title": "TAK SELAMANYA SELINGKUH ITU INDAH",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "DANGDUT ASIK",
+      "title": "AYANG",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "DANGDUT ASIK",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "DANGDUT ASIK",
+      "title": "DALAM GELAKKU MENANGIS",
+      "image": "file:///android_asset/image/DA.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "DANGDUT KOPLO",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "DANGDUT KOPLO",
+      "title": "GANG DOLLY",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p>Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo ati<br />Njegur ning lokalisasi</p><p><br />Getunku kepati-pati<br />Wis rumangsa njalari<br />Kepiye wae tak goleki<br />Ning ra ngerti nyang ngendi</p><p><br />Tak parani ono Koji<br />Jarene wis pindah Dolly<br />Age-age tak tututi<br />Jare wis ning Kalisari</p><p><br />Guyangan,Baben lan Bayanan<br />Kabeh wis tak lacaki<br />Kok ora di kirimo layang<br />Mapanmu ono ngendi</p><p><br />Getunku kepati-pati<br />Wis rumangsa njalari<br />Kepiye wae tak goleki<br />Ning ra ngerti nyang ngendi</p><p><br />Tak parani ono Koji<br />Jarene wis pindah Dolly<br />Age-age tak tututi<br />Jare wis ning Kalisari</p><p><br />Guyangan,Baben lan Bayanan<br />Kabeh wis tak lacaki<br />Kok ora di kirimo layang<br />Mapanmu ono ngendi</p><p><br />Getunku kepati-pati<br />Wis rumangsa njalari<br />Kepiye wae tak goleki<br />Ning ra ngerti nyang ngendi</p><p><br />Tak parani ono Koji<br />Jarene wis pindah Dolly<br />Age-age tak tututi<br />Jare wis ning Kalisari</p><p><br />Guyangan,Baben lan Bayanan<br />Kabeh wis tak lacaki<br />Kok ora di kirimo layang<br />Mapanmu ono ngendi</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "DANGDUT KOPLO",
+      "title": "HUTANG",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "DANGDUT KOPLO",
+      "title": "KESUCIAN ATI",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iku wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iku wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iku wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati<br />Kesucian ati</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "DANGDUT KOPLO",
+      "title": "KOYO JOGJA ISTIMEWA",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "DANGDUT KOPLO",
+      "title": "LALI JANJINE",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "DANGDUT KOPLO",
+      "title": "MANGKU PUREL",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p>Kowe wes lali omah <br />Ora Uli Ulian <br />Senengane Dolan Neng Karaokean <br />Ngandengi Penyanyi <br />Ora Cukup Siji <br />Cekelane Botol <br />Polahe Koyo Wong Tolol</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbalen<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Tel</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbalen<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Tel</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu<br />Luweh penting Mikiro Masa depanmu</p>"
+	  },
+	  {
+      "id": 20,
+      "name_category": "DANGDUT KOPLO",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "DANGDUT KOPLO",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "DANGDUT KOPLO",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p>jangan tanya bagaimana esok<br />ku tak ingin menerka perasaan ini<br />yang ku tahu hari ini ku mencintai mu<br />yang ku tahu ku sangat menyayangi mu</p><p><br />biarlah semua berlalu<br />jalani seperti apa adanya<br />bunga kan mekar meski kemarau melanda<br />bunga kan mekar meski kemarau melanda</p><p><br />bukan ku ingin memastikan<br />akulah cinta sejati mu<br />yakinkan hatimu<br />akulah takdir yang engkau nantikan</p><p><br />ku ingin kau mersa tentram<br />biarlah berada di sampingku<br />karna diriku sangat menyayangi mu<br />ku akan membuktikan cinta di hati mu<br />satu rasa menggapai bahagia<br />ku pinang dirimu sebagai teman hidupku<br />berjanjilah kasih setia bersama ku</p><p><br />biarlah semua berlalu<br />jalani seperti apa adanya<br />bunga kan mekar meski kemarau melanda<br />bunga kan mekar meski kemarau melanda<br />bukan ku ingin memastikan<br />akulah cinta sejatimu<br />yakinkan hatimu<br />akulah takdir yang engkau nantikan</p><p><br />ku ingin kau mersa tentram<br />biarlah berada di sampingku<br />karna diriku sangat menyayangi mu<br />ku akan membuktikan cinta di hati mu<br />satu rasa menggapai bahagia<br />ku pinang dirimu sebagai teman hidupku<br />berjanjilah kasih setia bersama ku</p><p><br />biarlah semua berlalu<br />jalani seperti apa adanya<br />bunga kan mekar meski kemarau melanda<br />bunga kan mekar meski kemarau melanda<br />bukan ku ingin memastikan<br />akulah cinta sejatimu<br />yakinkan hatimu<br />akulah takdir yang engkau nantikan</p><p><br />ku ingin kau mersa tentram<br />biarlah berada di sampingku<br />karna diriku sangat menyayangi mu<br />ku akan membuktikan cinta di hati mu<br />satu rasa menggapai bahagia<br />ku pinang dirimu sebagai teman hidupku<br />berjanjilah kasih setia bersama ku<br />berjanjilah kasih setia bersama ku<br />berjanjilah kasih setia bersama ku</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "DANGDUT KOPLO",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/DK.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
